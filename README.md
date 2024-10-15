@@ -5,6 +5,7 @@
 ## Todo
 
 - [ ] Auto copy personal files to data folder
+    - Not working as is..
 - [ ] One script to "do it all"
 - [ ] clean and organize project 
 
