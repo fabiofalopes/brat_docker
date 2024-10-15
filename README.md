@@ -1,5 +1,15 @@
 # BRAT Rapid Annotation Tool Docker Setup
 
+---
+
+## Todo
+
+- [ ] Auto copy personal files to data folder
+- [ ] One script to "do it all"
+- [ ] clean and organize project 
+
+---
+
 Set up and run the [BRAT Rapid Annotation Tool](https://github.com/nlplab/brat) using Docker.
 
 ## Prerequisites
