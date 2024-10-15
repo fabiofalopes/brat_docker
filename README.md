@@ -1,6 +1,6 @@
 # BRAT Rapid Annotation Tool Docker Setup
 
-Set up and run the BRAT Rapid Annotation Tool using Docker.
+Set up and run the [BRAT Rapid Annotation Tool](https://github.com/nlplab/brat) using Docker.
 
 ## Prerequisites
 
