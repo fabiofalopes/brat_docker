@@ -1,0 +1,15 @@
+# docker-compose.yml
+
+services:
+  brat:
+    build: .
+    ports:
+      - "8066:80"
+    volumes:
+      - brat_work:/home/brat/work
+      - brat_data:/home/brat/data
+    restart: unless-stopped
+
+volumes:
+  brat_work:
+  brat_data:
